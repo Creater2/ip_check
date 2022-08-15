@@ -7,7 +7,7 @@ function func(){
       
     console.log(JSON.stringify(data, null, 2,));
 
-    $(".div_1").text(data.ip_address)
+    $(".div_1").text(data)
 
 
 
