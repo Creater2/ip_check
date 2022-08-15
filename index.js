@@ -7,7 +7,7 @@ function func(){
       
     console.log(JSON.stringify(data, null, 2,));
 
-    $(".div_1").text(Акраман гей, и ясик его ебет)
+    $(".div_1").text('Акраман гей, и ясик его ебет')
 
 
 
